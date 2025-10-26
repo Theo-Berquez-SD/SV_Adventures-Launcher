@@ -1,7 +1,7 @@
 {
     "name": "SV_Adventures",
     "preductname": "SV_Adventures Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher crée pour SV_Adventures",
     "main": "src/app.js",
     "author": "SV_Development a la base de Riptiaz/Boulldogo/Vexato/Luuxis",
